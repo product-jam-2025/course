@@ -1,0 +1,22 @@
+name: Build and deploy materials
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-public-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: mkdir -p readme/profile && cp README.md readme/profile/README.md
+    - uses: s0/git-publish-subdir-action@develop
+      env:
+        REPO: git@github.com:digital-product-jam-2024/.github.git
+        BRANCH: main
+        FOLDER: readme
+        SSH_PRIVATE_KEY: ${{ secrets.DEPLOY_PROFILE_README_PRIVATE_KEY }}
