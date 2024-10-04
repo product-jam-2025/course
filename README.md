@@ -67,7 +67,7 @@ graded individually. These assignments must be submitted in the following way:
   but you should also verify on a per-assignment basis)
 - On completion, submit your task by adding a comment with the following
   information to the open issue for the task
-  [here](https://github.com/digital-product-jam-2024/course/issues):
+  [here](https://github.com/product-jam-2025/course/issues):
   - the URL to your GitHub repository
   - the public URL of the working application
 - All tasks must be submitted by end of day on the Tuesday before the class
@@ -75,16 +75,16 @@ graded individually. These assignments must be submitted in the following way:
 
 ### Individual assignments
 
-0. [Setup for the course](https://github.com/digital-product-jam-2024/course/tree/main/assignments/00.md)
-1. [Personal website](https://github.com/digital-product-jam-2024/course/tree/main/assignments/01.md)
-1. [Web Application](https://github.com/digital-product-jam-2024/course/tree/main/assignments/02.md)
+0. [Setup for the course](https://github.com/product-jam-2025/course/tree/main/assignments/00.md)
+1. [Personal website](https://github.com/product-jam-2025/course/tree/main/assignments/01.md)
+1. [Web Application](https://github.com/product-jam-2025/course/tree/main/assignments/02.md)
 
 ### Team tasks
 
-- [Technical requirements document](https://github.com/digital-product-jam-2024/course/tree/main/assignments/03.md)
-- [Implement one end to end functional flow](https://github.com/digital-product-jam-2024/course/tree/main/assignments/04.md)
-- [Implement a screen to wireframes](https://github.com/digital-product-jam-2024/course/tree/main/assignments/05.md)
-- [Implement a screen to final design](https://github.com/digital-product-jam-2024/course/tree/main/assignments/06.md)
+- [Technical requirements document](https://github.com/product-jam-2025/course/tree/main/assignments/03.md)
+- [Implement one end to end functional flow](https://github.com/product-jam-2025/course/tree/main/assignments/04.md)
+- [Implement a screen to wireframes](https://github.com/product-jam-2025/course/tree/main/assignments/05.md)
+- [Implement a screen to final design](https://github.com/product-jam-2025/course/tree/main/assignments/06.md)
 
 ### Grading criteria
 
@@ -111,7 +111,7 @@ based on the following criteria:
 - [Team Submissions](https://drive.google.com/drive/u/0/folders/1cHlK90AryL_0e-pp68w4I6E55THVMM4Y) -
   All team work submissions to be submitted here
 - A template for the
-  [Technical Requirements Document](https://github.com/digital-product-jam-2024/course/blob/main/resources/technical-requirements-document.md)
+  [Technical Requirements Document](https://github.com/product-jam-2025/course/blob/main/resources/technical-requirements-document.md)
 
 ## Videos
 
@@ -134,13 +134,13 @@ and links to specific videos below.
 
 We provide a collection of reference materials for the course:
 
-- [Setup Guide](https://github.com/digital-product-jam-2024/course/blob/main/reference/setup.md)
-- [HTML](https://github.com/digital-product-jam-2024/course/blob/main/reference/html.md)
-- [CSS](https://github.com/digital-product-jam-2024/course/blob/main/reference/css.md)
-- [JavaScript](https://github.com/digital-product-jam-2024/course/blob/main/reference/javascript.md)
-- [HTTP](https://github.com/digital-product-jam-2024/course/blob/main/reference/http.md)
-- [Git](https://github.com/digital-product-jam-2024/course/blob/main/reference/git.md)
-- [React / Next.js](https://github.com/digital-product-jam-2024/course/blob/main/reference/frameworks.md)
+- [Setup Guide](https://github.com/product-jam-2025/course/blob/main/reference/setup.md)
+- [HTML](https://github.com/product-jam-2025/course/blob/main/reference/html.md)
+- [CSS](https://github.com/product-jam-2025/course/blob/main/reference/css.md)
+- [JavaScript](https://github.com/product-jam-2025/course/blob/main/reference/javascript.md)
+- [HTTP](https://github.com/product-jam-2025/course/blob/main/reference/http.md)
+- [Git](https://github.com/product-jam-2025/course/blob/main/reference/git.md)
+- [React / Next.js](https://github.com/product-jam-2025/course/blob/main/reference/frameworks.md)
 
 ## Bootcamp
 
