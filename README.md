@@ -42,13 +42,13 @@ classmates and the course staff. You can do that on the
 ## Office hours
 
 If you need help with any of the course materials, you can attend office hours.
-Office hours are held on Google Meet, and can be scheduled at the link below.
-You can also ask questions on the
-[discussion forum for the course](https://github.com/product-jam-2025/course/discussions) -
-we really encourage you do do this and to learn from other partcipants in the
-course as much as possible.
+Office hours are held before classs on wednesday or on Google Meet, and can be
+scheduled by emailing the course staff.
 
-[Book Office Hours](https://calendly.com/digital-product-jam/office-hours)
+You can also ask questions on the
+[discussion forum](https://github.com/product-jam-2025/course/discussions) - we
+really encourage you do do this and to learn from other partcipants in the
+course as much as possible.
 
 ## Assignments
 
@@ -77,14 +77,14 @@ graded individually. These assignments must be submitted in the following way:
 
 0. [Setup for the course](https://github.com/product-jam-2025/course/tree/main/assignments/00.md)
 1. [Personal website](https://github.com/product-jam-2025/course/tree/main/assignments/01.md)
-1. [Web Application](https://github.com/product-jam-2025/course/tree/main/assignments/02.md)
+2. [Web Application](https://github.com/product-jam-2025/course/tree/main/assignments/02.md)
 
 ### Team tasks
 
-- [Technical requirements document](https://github.com/product-jam-2025/course/tree/main/assignments/03.md)
-- [Implement one end to end functional flow](https://github.com/product-jam-2025/course/tree/main/assignments/04.md)
-- [Implement a screen to wireframes](https://github.com/product-jam-2025/course/tree/main/assignments/05.md)
-- [Implement a screen to final design](https://github.com/product-jam-2025/course/tree/main/assignments/06.md)
+3. [Technical requirements document](https://github.com/product-jam-2025/course/tree/main/assignments/03.md)
+4. [Implement one end to end functional flow](https://github.com/product-jam-2025/course/tree/main/assignments/04.md)
+5. [Implement a screen to wireframes](https://github.com/product-jam-2025/course/tree/main/assignments/05.md)
+6. [Implement a screen to final design](https://github.com/product-jam-2025/course/tree/main/assignments/06.md)
 
 ### Grading criteria
 
