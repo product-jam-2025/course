@@ -76,13 +76,15 @@ graded individually. These assignments must be submitted in the following way:
 0. [Setup for the course](https://github.com/product-jam-2025/course/tree/main/assignments/00.md)
 1. [Personal website](https://github.com/product-jam-2025/course/tree/main/assignments/01.md)
 2. [Web Application](https://github.com/product-jam-2025/course/tree/main/assignments/02.md)
+<!--
 
-### Team tasks
+### Group assignments
 
 3. [Technical requirements document](https://github.com/product-jam-2025/course/tree/main/assignments/03.md)
 4. [Implement one end to end functional flow](https://github.com/product-jam-2025/course/tree/main/assignments/04.md)
 5. [Implement a screen to wireframes](https://github.com/product-jam-2025/course/tree/main/assignments/05.md)
 6. [Implement a screen to final design](https://github.com/product-jam-2025/course/tree/main/assignments/06.md)
+   -->
 
 ### Grading criteria
 
@@ -97,14 +99,14 @@ based on the following criteria:
 
 ## Resources
 
+### Setup, Installations, etc.
+
+- [Setup Guide](assignments/00.md)
+
 ### Slides
 
 All slides from the lessons will be uploaded
 [available here](https://docs.google.com/presentation/d/1j6IOOPr7oZ_GHTBKe0tqeDygZihZNUB8D4SXXOksUOo/edit?usp=sharing).
-
-### Environment Setup
-
-- [Setup Guide](assignments/00.md)
 
 ### Bootcamp
 
@@ -118,18 +120,13 @@ your work for these courses on Codecademy.
 3. [Learn CSS: Flexbox and Grid on Codecademy](https://www.codecademy.com/learn/learn-css-flexbox-and-grid)
 4. [Learn JavaScript on Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
 5. [Learn React on Codecademy](https://www.codecademy.com/learn/react-101)
-6. [Learn Asynchronous JavaScript on Codecademy](https://www.codecademy.com/learn/asynchronous-javascript)
 
 ### Videos
 
-We have some videos to help explain concepts or integrations that we don't get
-time to cover in detail in class. We indicate the year the video was recorded in
-case there are slight changes between the video and what you encounter in the
-course. See the
-[YouTube channel here](https://www.youtube.com/channel/UC9YmdWJs-bRo4lZX8WaanNw),
-and links to specific videos below.
+In previous years, some videos were made to help explain specific concepts or
+integrations within the stater kit. The kit has changed somewhat from previous
+years, but the videos may still be useful:
 
-- [Technical requirements document (2024)](https://youtu.be/3ZqvB-6_Cv4)
 - [Configuring Vercel For Your Project/Repository (2023)](https://youtu.be/wBDSPLGXgok)
 - [Vercel Environment Variables Overview (2022)](https://youtu.be/qHtbwt_Tk6Y)
 - [Supabase (Database) UI Overview (2022)](https://youtu.be/idNq2M7EhZs)
