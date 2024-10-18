@@ -99,7 +99,7 @@ based on the following criteria:
 
 ## Resources
 
-### Setup, Installations, etc.
+### Setup & getting started
 
 - [Setup Guide](assignments/00.md)
 
