@@ -115,11 +115,14 @@ refresh your knowledge, then it is recommended you take the following free
 courses at Codecademy, in the suggested order below. You will not be graded on
 your work for these courses on Codecademy.
 
-1. [Learn HTML on Codecademy](https://www.codecademy.com/learn/learn-html)
-2. [Learn CSS on Codecademy](https://www.codecademy.com/learn/learn-css)
-3. [Learn CSS: Flexbox and Grid on Codecademy](https://www.codecademy.com/learn/learn-css-flexbox-and-grid)
-4. [Learn JavaScript on Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
-5. [Learn React on Codecademy](https://www.codecademy.com/learn/react-101)
+1. [HTML & CSS | Code with Mosh](https://www.youtube.com/playlist?list=PLaSptwZwRsIzSioCK1Cp78S_lp_yZUTbX)
+2. [JavaScript | Code with Mosh](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+3. [React | Code with Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk)
+4. [Learn HTML on Codecademy](https://www.codecademy.com/learn/learn-html)
+5. [Learn CSS on Codecademy](https://www.codecademy.com/learn/learn-css)
+6. [Learn CSS: Flexbox and Grid on Codecademy](https://www.codecademy.com/learn/learn-css-flexbox-and-grid)
+7. [Learn JavaScript on Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+8. [Learn React on Codecademy](https://www.codecademy.com/learn/react-101)
 
 ### Videos
 
