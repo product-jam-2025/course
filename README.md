@@ -20,7 +20,7 @@ products, which they will design, develop, and deploy.
 General structure of the course will be:
 
 1. Learn web technologies
-2. Meet the organizations
+2. Meet the "client" organizations
 3. Form teams
 4. Pitch and plan the product
 5. Build the product!
