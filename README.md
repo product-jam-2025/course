@@ -75,8 +75,10 @@ graded individually. These assignments must be submitted in the following way:
 
 0. [Setup for the course](https://github.com/product-jam-2025/course/tree/main/assignments/00.md)
 1. [Personal website](https://github.com/product-jam-2025/course/tree/main/assignments/01.md)
-2. [Web Application](https://github.com/product-jam-2025/course/tree/main/assignments/02.md)
+
 <!--
+2. [Web Application](https://github.com/product-jam-2025/course/tree/main/assignments/02.md)
+
 
 ### Group assignments
 
@@ -105,15 +107,14 @@ based on the following criteria:
 
 ### Slides
 
-All slides from the lessons will be uploaded
+All slides from the lessons will be
 [available here](https://docs.google.com/presentation/d/1j6IOOPr7oZ_GHTBKe0tqeDygZihZNUB8D4SXXOksUOo/edit?usp=sharing).
 
 ### Bootcamp
 
 If you have no prior experience in HTML, CSS, or JavaScript, or, you want to
 refresh your knowledge, then it is recommended you take the following free
-courses at Codecademy, in the suggested order below. You will not be graded on
-your work for these courses on Codecademy.
+courses at Codecademy, in the suggested order below.
 
 1. [HTML & CSS | Code with Mosh](https://www.youtube.com/playlist?list=PLaSptwZwRsIzSioCK1Cp78S_lp_yZUTbX)
 2. [JavaScript | Code with Mosh](https://www.youtube.com/watch?v=W6NZfCO5SIk)
