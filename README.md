@@ -75,11 +75,9 @@ graded individually. These assignments must be submitted in the following way:
 
 0. [Setup for the course](https://github.com/product-jam-2025/course/tree/main/assignments/00.md)
 1. [Personal website](https://github.com/product-jam-2025/course/tree/main/assignments/01.md)
+2. [Web application](https://github.com/product-jam-2025/course/tree/main/assignments/02.md)
 
 <!--
-2. [Web Application](https://github.com/product-jam-2025/course/tree/main/assignments/02.md)
-
-
 ### Group assignments
 
 3. [Technical requirements document](https://github.com/product-jam-2025/course/tree/main/assignments/03.md)
