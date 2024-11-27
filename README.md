@@ -73,14 +73,14 @@ graded individually. These assignments must be submitted in the following way:
 
 ### Individual assignments
 
-0. [Setup for the course](https://github.com/product-jam-2025/course/tree/main/assignments/00.md)
-1. [Personal website](https://github.com/product-jam-2025/course/tree/main/assignments/01.md)
-2. [Web application](https://github.com/product-jam-2025/course/tree/main/assignments/02.md)
+0. [Setup for the course](assignments/00.md)
+1. [Personal website](assignments/01.md)
+2. [Web application](hassignments/02.md)
 
-<!--
 ### Group assignments
 
-3. [Technical requirements document](https://github.com/product-jam-2025/course/tree/main/assignments/03.md)
+3. [Technical requirements document](assignments/03.md)
+<!--
 4. [Implement one end to end functional flow](https://github.com/product-jam-2025/course/tree/main/assignments/04.md)
 5. [Implement a screen to wireframes](https://github.com/product-jam-2025/course/tree/main/assignments/05.md)
 6. [Implement a screen to final design](https://github.com/product-jam-2025/course/tree/main/assignments/06.md)
